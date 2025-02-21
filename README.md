@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dani Sam
-- 👀 I'm currently developing skills in Backend Developer
+- 👀 I'm currently Backend Developer
+- 🚀 I'm exploring Real-Time Systems and high-performance backend development.
 - 📫 Check out more about me on [my Personal Site](https://dani-sam.github.io/Personal-Website)
 <!--
 **dani-sam/dani-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
