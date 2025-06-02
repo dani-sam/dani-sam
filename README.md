@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dani Sam
-- 👀 I'm currently Backend Developer
-- 🚀 I'm exploring Real-Time Communication and high-performance backend development.
+- 🔭 I’m currently learning Infrastructure Systems — focused on building scalable, reliable, and high-performance backend tools.  
+- 🚀 Focused on Go, while gradually exploring Redis, Linux, and cloud-native technologies as I learn infrastructure systems.
+- 🌐 Passionate about distributed systems, real-time services, and DevOps automation.
 - 📫 Check out more about me on [my Personal Site](https://dani-sam.github.io/Personal-Website)
 <!--
 **dani-sam/dani-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
