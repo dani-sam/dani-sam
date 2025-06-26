@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dani Sam
-- 🔭 I’m currently learning Infrastructure Systems — focused on building scalable, reliable, and high-performance backend tools.  
-- 🚀 Focused on Rust and Go, while gradually exploring Redis, Linux, and cloud-native technologies as I deepen my understanding of infrastructure systems.
-- 🌐 Passionate about distributed systems, real-time services, and DevOps automation.
+- 🔭 I'm currently learning **real-time communication systems** and **distributed architecture** through hands-on projects.
+- 🚀 Building with **Go** while exploring **WebSocket programming**, **Redis**, and **networking fundamentals**.
+- 🌐 Passionate about **backend development**, **concurrent systems**, and **peer-to-peer communication**.
 - 📫 Check out more about me on [my Personal Site](https://dani-sam.github.io/Personal-Website)
 <!--
 **dani-sam/dani-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
