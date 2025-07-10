@@ -9,6 +9,7 @@
   🔭 Learning real-time communication systems & distributed architecture<br>
   🚀 Building with <strong>Go</strong> – exploring <strong>WebSockets</strong>, <strong>Redis</strong>, & <strong>networking</strong><br>
   🌐 Passionate about <strong>backend development</strong>, <strong>concurrent systems</strong>, & <strong>P2P communication</strong><br>
+  🔐 Deep interest in <strong>computer networks</strong> and <strong>cryptography</strong>, aiming to integrate secure, efficient protocols into real-time systems<br>
   📫 Learn more on my <a href="https://dani-sam.github.io/Personal-Website" target="_blank">Personal Site</a>
 </p>
 
