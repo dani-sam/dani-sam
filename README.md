@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  🔭 Researching <strong>Blockchain systems</strong> - core design, consensus, and distributed architectures <br>
-  🦀 Building with <strong>Rust</strong> – low-level networking, async systems, and P2P protocols for Blockchain<br>
-  🌐 Passionate about <strong>backend systems</strong> & <strong>concurrent systems</strong> - with a focus on decentralized, real-time communication<br>
-  🔐 Exploring in <strong>networks</strong> and <strong>cryptography</strong> - designing secure, efficient protocols for Blockchain and real-time systems<br>
+  🔭 Researching <strong>WebAssembly (WASM)</strong> - architecture, performance, and secure sandboxed execution  <br>
+  🦀 Building with <strong>Rust</strong> – system-level programming, async runtimes, and WASM integration<br>
+  🌐 Passionate about <strong>backend systems</strong> & <strong>concurrent systems</strong> - focusing on high-performance, portable infrastructures<br>
+  🔐 Exploring in <strong>networks</strong> and <strong>cryptography</strong> - secure protocols for WASM runtimes and real-time systems<br>
   📫 Learn more on my <a href="https://dani-sam.github.io/Personal-Website" target="_blank">Personal Site</a>
 </p>
 
