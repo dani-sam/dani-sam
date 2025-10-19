@@ -2,10 +2,9 @@
 
 <!-- 🌑 VOIDHYR THEME PROFILE README -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Dani+Sam+(Voidhyr);System+Engineer+%26+Rustacean;WASM+Researcher+%26+CLI+Crafter;Exploring+the+Void+of+Fast+%26+Secure+Systems" 
-    alt="Typing SVG"
-  />
+  <a href="https://dani-sam.github.io/dani-sam/">
+    <img src="https://img.shields.io/badge/👋_View-Typing_Animation-8B5CF6?style=for-the-badge" alt="Typing Animation" />
+  </a>
 </p>
 
 ---
