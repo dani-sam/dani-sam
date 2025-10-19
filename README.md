@@ -2,9 +2,7 @@
 
 <!-- 🌑 VOIDHYR THEME PROFILE README -->
 <p align="center">
-  <a href="https://dani-sam.github.io/dani-sam/">
-    <img src="https://img.shields.io/badge/👋_View-Typing_Animation-8B5CF6?style=for-the-badge" alt="Typing Animation" />
-  </a>
+  <img src="./typing-animation.svg" alt="Typing Animation" />
 </p>
 
 ---
