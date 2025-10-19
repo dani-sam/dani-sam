@@ -8,6 +8,7 @@
 <p align="center">
   🔭 Researching <strong>WebAssembly (WASM)</strong> - architecture, performance, and secure sandboxed execution  <br>
   🦀 Building with <strong>Rust</strong> – system-level programming, async runtimes, and WASM integration<br>
+  ⚙️ Crafting ergonomic and blazing-fast <strong>CLI tools</strong> for developer-centric workflows and infrastructure management<br>
   🌐 Passionate about <strong>backend systems</strong> & <strong>concurrent systems</strong> - focusing on high-performance, portable infrastructures<br>
   🔐 Exploring in <strong>networks</strong> and <strong>cryptography</strong> - secure protocols for WASM runtimes and real-time systems<br>
   📫 Learn more on my <a href="https://dani-sam.github.io/Personal-Website" target="_blank">Personal Site</a>
