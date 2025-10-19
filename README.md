@@ -1,31 +1,42 @@
 <!-- <h1 align="center">🌌 Voidhyr</h1> -->
 
+<!-- 🌑 VOIDHYR THEME PROFILE README -->
 <p align="center">
-  <strong>👋 Hi, I’m Dani Sam</strong><br>
-  aka <code>Voidhyr</code>
-</p>
-
-<p align="center">
-  🔭 Researching <strong>WebAssembly (WASM)</strong> - architecture, performance, and secure sandboxed execution  <br>
-  🦀 Building with <strong>Rust</strong> – system-level programming, async runtimes, and WASM integration<br>
-  ⚙️ Crafting ergonomic and blazing-fast <strong>CLI tools</strong> for developer-centric workflows and infrastructure management<br>
-  🌐 Passionate about <strong>backend systems</strong> & <strong>concurrent systems</strong> - focusing on high-performance, portable infrastructures<br>
-  🔐 Exploring in <strong>networks</strong> and <strong>cryptography</strong> - secure protocols for WASM runtimes and real-time systems<br>
-  📫 Learn more on my <a href="https://dani-sam.github.io/Personal-Website" target="_blank">Personal Site</a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Dani+Sam+(Voidhyr);System+Engineer+%26+Rustacean;WASM+Researcher+%26+CLI+Crafter;Exploring+the+Void+of+Fast+%26+Secure+Systems" 
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
-  <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-  <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
-    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <strong>🌀 Researching</strong> <code>WebAssembly (WASM)</code> — Architecture, Performance, and Secure Sandboxed Execution <br>
+  <strong>🦀 Building</strong> with <code>Rust</code> — System-level Programming, Async Runtimes, and WASM Integration<br>
+  <strong>⚙️ Crafting</strong> ergonomic, blazing-fast <code>CLI Tools</code> for Developers and Infrastructure Engineers<br>
+  <strong>🌐 Exploring</strong> <code>Backend</code> & <code>Concurrent Systems</code> — High-Performance and Portable Architectures<br>
+  <strong>🔐 Delving</strong> into <code>Networks</code> & <code>Cryptography</code> — Secure Protocols for WASM and Real-time Systems<br><br>
+  🕳️ <a href="https://dani-sam.github.io/Personal-Website" target="_blank"><b>Enter the Void → Personal Site</b></a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-1E1E2E?style=for-the-badge&logo=rust&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Go-1E1E2E?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/WebAssembly-1E1E2E?style=for-the-badge&logo=webassembly&logoColor=654FF0" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1E1E2E?style=for-the-badge&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/Redis-1E1E2E?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Docker-1E1E2E?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/CLI_Tools-1E1E2E?style=for-the-badge&logo=gnometerminal&logoColor=8B5CF6" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer" />
+</p>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dani-sam&label=Visitors&color=7F3FBF&style=flat-square" alt="visitor counter"/> </p> -->
 
 
