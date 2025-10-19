@@ -60,5 +60,5 @@
   </g>
   
   <!-- Blinking Cursor -->
-  <rect x="710" y="28" width="3" height="24" class="cursor"/>
+  <!-- <rect x="710" y="28" width="3" height="24" class="cursor"/> -->
 </svg>
