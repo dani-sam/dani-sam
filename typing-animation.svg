@@ -1,0 +1,64 @@
+<svg width="800" height="80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .typing-text {
+      font-family: 'Courier New', monospace;
+      font-size: 22px;
+      fill: #8B5CF6;
+      font-weight: 600;
+    }
+    
+    .cursor {
+      fill: #8B5CF6;
+      animation: blink 0.75s step-end infinite;
+    }
+    
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
+    
+    /* Typing effect for each line */
+    .line1 { animation: showLine 20s ease-in-out infinite; }
+    .line2 { animation: showLine 20s ease-in-out infinite; animation-delay: 5s; opacity: 0; }
+    .line3 { animation: showLine 20s ease-in-out infinite; animation-delay: 10s; opacity: 0; }
+    .line4 { animation: showLine 20s ease-in-out infinite; animation-delay: 15s; opacity: 0; }
+    
+    @keyframes showLine {
+      0%, 20% { opacity: 1; }
+      25%, 100% { opacity: 0; }
+    }
+  </style>
+  
+  <rect width="800" height="80" fill="transparent"/>
+  
+  <!-- Line 1: 👋 Hi, I'm Dani Sam (Voidhyr) -->
+  <g class="line1">
+    <text x="400" y="45" text-anchor="middle" class="typing-text">
+      👋 Hi, I'm Dani Sam (Voidhyr)
+    </text>
+  </g>
+  
+  <!-- Line 2: System Engineer & Rustacean -->
+  <g class="line2">
+    <text x="400" y="45" text-anchor="middle" class="typing-text">
+      System Engineer &amp; Rustacean
+    </text>
+  </g>
+  
+  <!-- Line 3: WASM Researcher & CLI Crafter -->
+  <g class="line3">
+    <text x="400" y="45" text-anchor="middle" class="typing-text">
+      WASM Researcher &amp; CLI Crafter
+    </text>
+  </g>
+  
+  <!-- Line 4: Exploring the Void -->
+  <g class="line4">
+    <text x="400" y="45" text-anchor="middle" class="typing-text">
+      Exploring the Void of Fast &amp; Secure Systems
+    </text>
+  </g>
+  
+  <!-- Blinking Cursor -->
+  <rect x="710" y="28" width="3" height="24" class="cursor"/>
+</svg>
