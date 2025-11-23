@@ -45,12 +45,12 @@
     </text>
   </g>
   
-  <!-- Line 3: WASM Researcher & CLI Crafter -->
-  <g class="line3">
-    <text x="400" y="45" text-anchor="middle" class="typing-text">
-      WASM Researcher &amp; CLI Crafter
-    </text>
-  </g>
+ <!-- Line 3: Systems Researcher & CLI Crafter -->
+<g class="line3">
+  <text x="400" y="45" text-anchor="middle" class="typing-text">
+    Systems Researcher &amp; CLI Crafter
+  </text>
+</g>
   
   <!-- Line 4: Exploring the Void -->
   <g class="line4">
