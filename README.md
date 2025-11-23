@@ -8,11 +8,11 @@
 ---
 
 <p align="center">
-  <strong>🌀 Researching</strong> <code>WebAssembly (WASM)</code> — Architecture, Performance, and Secure Sandboxed Execution <br>
-  <strong>🦀 Building</strong> with <code>Rust</code> — System-level Programming, Async Runtimes, and WASM Integration<br>
+  <strong>🌀 Researching</strong> <code>Systems & WebAssembly (WASM)</code> — Runtime architecture, performance engineering, and secure sandboxed execution<br>
+  <strong>🦀 Building</strong> with <code>Rust</code> — System-level programming, async runtimes, and low-level protocol internals<br>
   <strong>⚙️ Crafting</strong> ergonomic, blazing-fast <code>CLI Tools</code> for Developers and Infrastructure Engineers<br>
-  <strong>🌐 Exploring</strong> <code>Backend</code> & <code>Concurrent Systems</code> — High-Performance and Portable Architectures<br>
-  <strong>🔐 Delving</strong> into <code>Networks</code> & <code>Cryptography</code> — Secure Protocols for WASM and Real-time Systems<br><br>
+  <strong>🌐 Exploring</strong> <code>Backend & Concurrent Systems</code> — Scalable architectures, distributed computing, and high-throughput processing<br>
+  <strong>🔐 Delving</strong> into <code>Networking & Security</code> — High-Performance Protocols, Cryptography, and Hardened System Design<br><br>
   🕳️ <a href="https://dani-sam.github.io/Personal-Website" target="_blank"><b>Enter the Void → Personal Site</b></a>
 </p>
 
