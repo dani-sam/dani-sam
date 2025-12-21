@@ -12,7 +12,7 @@
   <strong>🦀 Building</strong> with <code>Rust</code> — System-level programming, async runtimes, and low-level protocol internals<br>
   <strong>⚙️ Crafting</strong> ergonomic, blazing-fast <code>CLI Tools</code> for Developers and Infrastructure Engineers<br>
   <strong>🌐 Exploring</strong> <code>Backend & Concurrent Systems</code> — Scalable architectures, distributed computing, and high-throughput processing<br>
-  <strong>🔐 Delving</strong> into <code>Networking & Security</code> — High-Performance Protocols, Cryptography, and Hardened System Design<br><br>
+  <strong>🔐 Delving</strong> into <code>Operating Systems & Security</code> — Process scheduling, virtual memory, system calls, isolation boundaries, and secure OS design<br><br>
   🕳️ <a href="https://dani-sam.github.io/Personal-Website" target="_blank"><b>Enter the Void → Personal Site</b></a>
 </p>
 
