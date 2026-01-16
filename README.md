@@ -8,24 +8,21 @@
 ---
 
 <p align="center">
-  <strong>🌀 Researching</strong> <code>Systems & WebAssembly (WASM)</code> — Runtime architecture, performance engineering, and secure sandboxed execution<br>
-  <strong>🦀 Building</strong> with <code>Rust</code> — System-level programming, async runtimes, and low-level protocol internals<br>
-  <strong>⚙️ Crafting</strong> ergonomic, blazing-fast <code>CLI Tools</code> for Developers and Infrastructure Engineers<br>
-  <strong>🌐 Exploring</strong> <code>Backend & Concurrent Systems</code> — Scalable architectures, distributed computing, and high-throughput processing<br>
-  <strong>🔐 Delving</strong> into <code>Operating Systems & Security</code> — Process scheduling, virtual memory, system calls, isolation boundaries, and secure OS design<br><br>
+  <strong>🌀 Studying & Building</strong> <code>Operating Systems & Computer Networking</code> — Kernel architecture, process scheduling, virtual memory, system calls, and TCP/IP internals<br>
+  <strong>🦀 Building</strong> with <code>Rust</code> — System-level programming, memory-safe concurrency, async runtimes, and low-level networking primitives<br>
+  <strong>⚙️ Crafting</strong> ergonomic, blazing-fast <code>CLI Tools</code> for Systems and Infrastructure Engineers<br>
+  <strong>🌐 Exploring</strong> <code>Concurrent & Networked Systems</code> — Socket programming, event-driven architectures, scalability, and high-throughput I/O models<br>
+  <strong>🔐 Delving</strong> into <code>Operating Systems & Systems Security</code> — Isolation boundaries, privilege separation, syscall interfaces, and secure system design<br><br>
   🕳️ <a href="https://dani-sam.github.io/Personal-Website" target="_blank"><b>Enter the Void → Personal Site</b></a>
 </p>
 
 ---
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Rust-1E1E2E?style=for-the-badge&logo=rust&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Go-1E1E2E?style=for-the-badge&logo=go&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/WebAssembly-1E1E2E?style=for-the-badge&logo=webassembly&logoColor=654FF0" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1E1E2E?style=for-the-badge&logo=postgresql&logoColor=336791" />
-  <img src="https://img.shields.io/badge/Redis-1E1E2E?style=for-the-badge&logo=redis&logoColor=DC382D" />
   <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Docker-1E1E2E?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Podman-1E1E2E?style=for-the-badge&logo=podman&logoColor=892CA0" />
   <img src="https://img.shields.io/badge/CLI_Tools-1E1E2E?style=for-the-badge&logo=gnometerminal&logoColor=8B5CF6" />
 </p>
 
