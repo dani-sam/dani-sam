@@ -8,14 +8,16 @@
 ---
 
 <p align="center">
-  <strong>🌀 Studying & Building</strong> <code>Computer Networking, Operating Systems & Embedded Systems</code> — Network internals, protocol design, OS fundamentals, and bare-metal hardware<br>
-<strong>⚙️ Growing in</strong> <code>C</code> <strong>for Systems Programming</strong> —
-  Raw sockets, POSIX APIs, memory management, and low-level protocol implementation ·
-  <em>ESP32 embedded development on the horizon</em><br>
-<strong>🏗️ Working Towards</strong> real systems projects — Packet sniffers, TCP stacks, network daemons, and embedded firmware · going deeper into C one project at a time<br>
-<strong>🔌 Drawn to</strong> <code>Networking Internals & Protocol Engineering</code> — Socket programming, TCP/IP internals, packet analysis, and how data actually moves across networks<br>
-<strong>🖥️ Exploring</strong> <code>Operating Systems & Hardware Interfaces</code> — Syscall interfaces, memory model, device drivers, interrupts, and how software talks to silicon<br>
-<strong>📡 Delving</strong> into <code>Embedded Systems & Bare-Metal Hardware</code> — ESP32, FreeRTOS, GPIO, UART, and building firmware from scratch<br><br>
+<strong>🌀 Studying & Building</strong> <code>Computer Networking · Operating Systems · Embedded Systems</code><br>
+  Network internals, protocol design, OS fundamentals, and bare-metal hardware<br><br>
+<strong>⚙️ Growing in</strong> <code>C for Systems Programming</code> —
+  Raw sockets, POSIX APIs, memory management, and low-level protocol implementation<br><br>
+<strong>🔌 Drawn to</strong> <code>Networking Internals & Protocol Engineering</code> —
+  Socket programming, TCP/IP internals, packet analysis, and how data actually moves across networks<br><br>
+<strong>🖥️ Exploring</strong> <code>OS Internals & Bare-Metal Hardware</code> —
+  Syscall interfaces, memory model, device drivers, and ESP32 firmware with FreeRTOS<br><br>
+<strong>🏗️ Working Towards</strong> real systems projects —
+  Packet sniffers · TCP stacks · Network daemons · Embedded firmware<br><br>
   🕳️ <a href="https://voidhyr.github.io/Personal-Website/" target="_blank"><b>Enter the Void → Personal Site</b></a>
 </p>
 
