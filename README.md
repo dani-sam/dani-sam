@@ -14,10 +14,12 @@
   Raw sockets, POSIX APIs, memory management, and low-level protocol implementation<br><br>
 <strong>🔌 Drawn to</strong> <code>Networking Internals & Protocol Engineering</code> —
   Socket programming, TCP/IP internals, packet analysis, and how data actually moves across networks<br><br>
+<strong>🔐 Targeting</strong> <code>Network Security Engineering</code> —
+  Protocol fuzzing, packet analysis, TLS internals, and network anomaly detection<br><br>
 <strong>🖥️ Exploring</strong> <code>OS Internals & Bare-Metal Hardware</code> —
   Syscall interfaces, memory model, device drivers, and ESP32 firmware with FreeRTOS<br><br>
-<strong>🏗️ Working Towards</strong> real systems projects —
-  Packet sniffers · TCP stacks · Network daemons · Embedded firmware<br><br>
+<strong>🏗️ Building Towards</strong> network security internship + systems engineering —
+  Packet sniffers · Protocol fuzzers · TLS inspectors · Network daemons · Embedded firmware<br><br>
   🕳️ <a href="https://voidhyr.github.io/Personal-Website/" target="_blank"><b>Enter the Void → Personal Site</b></a>
 </p>
 
