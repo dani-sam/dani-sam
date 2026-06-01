@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/ESP32-1E1E2E?style=for-the-badge&logo=espressif&logoColor=E7352C" />
   <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Neovim-1E1E2E?style=for-the-badge&logo=neovim&logoColor=57A143" />
-  <img src="https://img.shields.io/badge/Kitty-1E1E2E?style=for-the-badge&logo=kitty&logoColor=FECD28" />
 </p>
 
 ---
