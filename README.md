@@ -20,19 +20,14 @@
 🕳️ <a href="https://voidhyr.github.io/Personal-Website/" target="_blank"><b>Enter the Void → Personal Site</b></a>
 </p>
 ---
-
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/C-1E1E2E?style=for-the-badge&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/GDB-1E1E2E?style=for-the-badge&logo=gnu&logoColor=A42E2B" />
-  <img src="https://img.shields.io/badge/Valgrind-1E1E2E?style=for-the-badge&logo=gnu&logoColor=A42E2B" />
+  <img src="https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Wireshark-1E1E2E?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
-  <img src="https://img.shields.io/badge/tcpdump-1E1E2E?style=for-the-badge&logo=gnu&logoColor=A42E2B" />
-  <img src="https://img.shields.io/badge/ESP32-1E1E2E?style=for-the-badge&logo=espressif&logoColor=E7352C" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-1E1E2E?style=for-the-badge&logo=linux&logoColor=37C8AB" />
   <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Neovim-1E1E2E?style=for-the-badge&logo=neovim&logoColor=57A143" />
 </p>
-
 ---
 
 <p align="center">
