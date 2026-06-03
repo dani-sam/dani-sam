@@ -8,15 +8,15 @@
 ---
 
 <p align="center">
-<strong>🔐 Targeting</strong> <code>Network Security Engineering</code> —
-  Defensive security, network protection, cryptography, and secure protocol analysis<br><br>
+<strong>🚀 Targeting</strong> <code>Network Automation Engineering</code> —
+  Python-driven network tooling, infrastructure automation, and protocol analysis<br><br>
 <strong>🌀 Studying & Building</strong>
-  <code>Computer Networking · Information Security · Cryptography</code><br>
-  TCP/IP internals, encryption fundamentals, and network security concepts<br><br>
-<strong>🐍 Working in</strong> <code>Python for Security</code> —
-  Cryptography implementations, network scripting, and security tooling<br><br>
-<strong>🏗️ Building Towards</strong> Information Security Engineer —
-  Packet sniffers · Encryption tools · Network monitors · TLS analysis<br><br>
+<code>Computer Networking · Network Automation · Linux</code><br>
+  TCP/IP internals, network scripting, and infrastructure tooling<br><br>
+<strong>🐍 Working in</strong> <code>Python for Networking</code> —
+  Network automation scripts, infrastructure tooling, and protocol analysis<br><br>
+<strong>🏗️ Building Towards</strong> Network Automation Engineer —
+  Network monitors · Automation scripts · Infrastructure tools · Protocol analysis<br><br>
 🕳️ <a href="https://voidhyr.github.io/Personal-Website/" target="_blank"><b>Enter the Void → Personal Site</b></a>
 </p>
 
