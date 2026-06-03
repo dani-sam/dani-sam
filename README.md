@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Wireshark-1E1E2E?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
-  <img src="https://img.shields.io/badge/Parrot%20OS-1E1E2E?style=for-the-badge&logo=linux&logoColor=37C8AB" />
+  <img src="https://img.shields.io/badge/EVE--NG-1E1E2E?style=for-the-badge&logo=cisco&logoColor=1BA0D7" />
   <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Neovim-1E1E2E?style=for-the-badge&logo=neovim&logoColor=57A143" />
 </p>
