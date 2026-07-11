@@ -10,19 +10,20 @@
 <p align="center">
 <strong>🚀 Targeting</strong> <code>DevOps Engineering</code> —
   Python-driven automation, containerized infrastructure,
-  CI/CD pipelines, and network-aware operations<br><br>
+  CI/CD pipelines, and observability-driven operations<br><br>
 <strong>🌀 Studying & Building</strong>
-<code>DevOps · Python Automation · Linux · Docker · Networking</code><br>
+<code>DevOps · Python Automation · Linux · Docker · Observability</code><br>
   Container orchestration, infrastructure automation,
-  and network operations<br><br>
+  and monitoring/observability stacks<br><br>
 <strong>🐍 Working in</strong> <code>Python for Automation & Infrastructure</code> —
-  Automation scripts, containerized network labs,
+  Automation scripts, containerized infrastructure labs,
   infrastructure tooling, and CI/CD workflows<br><br>
 <strong>🏗️ Building Towards</strong> DevOps Engineer —
   CI/CD pipelines · Container automation · Infrastructure tools
-  · Network-aware operations<br><br>
+  · Observability & monitoring<br><br>
 🕳️ <a href="https://voidhyr.github.io/Personal-Website/" target="_blank"><b>Enter the Void → Personal Site</b></a>
 </p>
+
 
 ---
 
@@ -31,10 +32,10 @@
   <img src="https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Docker-1E1E2E?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/GitHub_Actions-1E1E2E?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
-  <img src="https://img.shields.io/badge/Containerlab-1E1E2E?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Neovim-1E1E2E?style=for-the-badge&logo=neovim&logoColor=57A143" />
 </p>
+
 
 ---
 
