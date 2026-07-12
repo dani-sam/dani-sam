@@ -44,21 +44,21 @@
       <!-- Line 2: Python & Network Automation Enthusiast -->
     <g class="line2">
       <text x="400" y="45" text-anchor="middle" class="typing-text">
-       DevOps &amp; Automation Enthusiast · Python Developer
+       Data Engineering Enthusiast &#8226; Python Developer
       </text>
     </g>
 
     <!-- Line 3: Networking · Automation · Python · Linux -->
   <g class="line3">
     <text x="400" y="45" text-anchor="middle" class="typing-text">
-        DevOps &#8226; Automation &#8226; Observability &#8226; Linux
+      SQL &#8226; Python &#8226; Airflow &#8226; Linux
     </text>
   </g>
 
     <!-- Line 4: Exploring the Void -->
     <g class="line4">
       <text x="400" y="45" text-anchor="middle" class="typing-text">
-        Exploring the Void — Scripts to Systems
+        Exploring the Void — Data to Insights
       </text>
     </g>
   </svg>
